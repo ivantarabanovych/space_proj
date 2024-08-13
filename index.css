@@ -186,6 +186,7 @@ body {
   gap: 10px;
 }
 .mainSectionWrapper .mainSection__content-imageWrapper-controls-btnWrap-btn {
+  cursor: pointer;
   width: 35px;
   height: 35px;
   display: flex;
@@ -706,9 +707,11 @@ body {
 }
 .blogSectionWrapper .blogSection__controlsWrapp-controls-btnWrapp-btn {
   width: 100%;
+  cursor: pointer;
 }
 .blogSectionWrapper .blogSection__controlsWrapp-controls-btnWrapp .rotate {
   transform: rotate(180deg);
+  cursor: pointer;
 }
 .blogSectionWrapper .blogSection__controlsWrapp-button {
   width: 175px;

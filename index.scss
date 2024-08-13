@@ -203,6 +203,7 @@ body {
             gap: 10px;
 
             &-btn {
+              cursor: pointer;
               width: 35px;
               height: 35px;
               display: flex;
@@ -757,10 +758,12 @@ body {
 
                     &-btn{
                         width: 100%;
+                        cursor: pointer;
                     }
 
                     .rotate{
                         transform: rotate(180deg);
+                        cursor: pointer;
                     }
 
                 }
